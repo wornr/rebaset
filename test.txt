@@ -1,2 +1,4 @@
 branch
 new line
+master
+new setting
